@@ -1,0 +1,18 @@
+{
+    "Genre": "Suspense"
+},
+{
+    "Genre": "Thriller"
+},
+{
+    "Genre": "Mystery"
+},
+{
+    "Genre": "Autobiography"
+},
+{
+"Genre": "Romance"
+},
+{
+    "Genre": "Horror"
+}

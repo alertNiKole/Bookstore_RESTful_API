@@ -1,0 +1,27 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "a simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookstore",
+    "traversy",
+    "recreation",
+    "Mongodb",
+    "Express",
+    "RESTful",
+    "API",
+    "API"
+  ],
+  "author": "NiKole Maxwell | nvy.io (based on Traversy Media Training)",
+  "license": "Unlicense",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.12"
+  }
+}

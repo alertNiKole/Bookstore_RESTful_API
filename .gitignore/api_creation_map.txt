@@ -1,0 +1,24 @@
+//Map to creating proper APIs
+
+//Required elements/modules
+
+//Required Includes
+    // PATH
+    // Include Middleware
+
+//Establish Connection
+
+//Iniital Routing (Landing)
+
+//CRUD/Routing
+ /* [Sensical organization to the API */
+
+    // GET
+
+    //POST
+
+    //UPDATE
+
+    //DELETE
+
+//Initate Server
